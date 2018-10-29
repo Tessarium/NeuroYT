@@ -13,4 +13,4 @@ Model - faster_rcnn_inception_resnet_v2_atrous_coco
 ![](https://raw.githubusercontent.com/Tessarium/NeuroYT/master/ImagesForGitHub/2.jpg)
 
 ## Addition
-Project is still in development. In plans, change the model to mask rcnn and of course teach it. And rebuild some parths of the code and logick to make recognising faster (now it`s about 2 minutes)
+Project is still in development. In plans, change the model to mask rcnn and of course teach it. And rebuild some parts of the code and logic to make recognising faster (now it`s about 2 minutes)
