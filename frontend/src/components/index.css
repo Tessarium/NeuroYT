@@ -1,0 +1,11 @@
+body {
+    position: relative;
+    /*background-image: url("/frontend/static/images/b1.png");*/
+    background: url('/static/images/b1.png') no-repeat center center fixed;
+    background-size: cover;
+    min-width: 500px;
+    min-height: 968px;
+    color: #fff;
+    height:100%;
+    width: 100%;
+}

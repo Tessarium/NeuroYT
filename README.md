@@ -1,2 +1,1 @@
-# NeuroYT
-ProjectForCV #2
+# ProjectForCV
